@@ -1,4 +1,4 @@
-# Instant Gratification
+# Kaggle Instant Gratification Competition
 ![](https://storage.googleapis.com/kaggle-media/competitions/general/Kerneler-white-desc2_transparent.png) <br>
 A solution for Kaggle Instant Gratification competition.
 
